@@ -5,6 +5,10 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
 <link rel="stylesheet" type="text/css" href="ppdata-archive.css">
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body>
 <div class="wrapper">
@@ -92,7 +96,25 @@
       </adrticle>
     </section>
   </main>
+
+<p>Python code to generate the first entry, bbob 2009, in the table (other entries work respectively):
+    <pre><code class="python">import cocopp               # see https://pypi.org/project/cocopp
+cocopp.main('bbob/2009/*')  # will take several minutes to process</code></pre>
+</p>
+<h2>Related links</h2>
+<p>
+<ul><li><a href="https://numbbo.github.io/data-archive">
+    raw data listing</a>
+</li><li><a href="https://github.com/numbbo/coco/blob/master/howtos/publish-a-dataset-howto.md">
+  how to submit a data set</a>
+</li><li>
+  <a href="https://github.com/numbbo/coco/blob/master/code-postprocessing/cocopp/archiving.py">
+  how to create and use COCO data archives (with Python)</a></p>
+</li></ul>
+</p>
 </div>
+
+
 <footer>
   <nav role="navigation">
     <ul class="nav-ul">
