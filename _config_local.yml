@@ -1,0 +1,37 @@
+title: ppdata archive
+description: >- 
+  This is the webpage of the
+  COCO ppdata archive
+#url: "numbbo.github.io"
+#baseurl: "/ppdata-archive" 
+github_repo: "numbbo/ppdata-archive"
+
+# Build settings
+theme: just-the-docs
+# search_enabled: false # Use this to disable search
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+    
+kramdown:
+    math-engine: katex
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+exclude:
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  
+aux_links:
+  "COCO code":
+    - "https://github.com/numbbo/coco"
+  "data archive":
+    - "http://numbbo.github.io/data-archive/"
+  "postprocessed data":
+    - "http://numbbo.github.io/ppdata-archive/"
+  "COCO Home":
+    - "http://numbbo.github.io/coco/"
+  
