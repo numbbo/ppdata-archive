@@ -53,31 +53,31 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
 </tr>
 <tr>
   <td style="text-align:center">
-    <a href="./bbob/2009-all/index.html">2009</a><br />
-	<a href="./bbob/2010-all/index.html">2010</a><br />
-	<a href="./bbob/2012-all/index.html">2012</a><br />
-	<a href="./bbob/2013-all/index.html">2013</a><br />
-	<a href="./bbob/2014-all/index.html">2014</a><br />
+    <a href="./bbob/2009/index.html">2009</a><br />
+	<a href="./bbob/2010/index.html">2010</a><br />
+	<a href="./bbob/2012/index.html">2012</a><br />
+	<a href="./bbob/2013/index.html">2013</a><br />
+	<a href="./bbob/2014/index.html">2014</a><br />
 	<a href="./bbob/2015-CEC/index.html">2015-CEC</a><br />
 	<a href="./bbob/2015-GECCO/index.html">2015-GECCO</a><br />
-	<a href="./bbob/2016-all/index.html">2016</a><br />
-	<a href="./bbob/2017-all/index.html">2017</a><br />
-	<a href="./bbob/2018-all/index.html">2018</a><br />
-	<a href="./bbob/2019-all/index.html">2019</a><br />
+	<a href="./bbob/2016/index.html">2016</a><br />
+	<a href="./bbob/2017/index.html">2017</a><br />
+	<a href="./bbob/2018/index.html">2018</a><br />
+	<a href="./bbob/2019/index.html">2019</a><br />
   </td>
   <td style="text-align:center">
-    <a href="./bbob-noisy/2009-all/index.html">2009</a><br />
-    <a href="./bbob-noisy/2010-all/index.html">2010</a><br />
-	<a href="./bbob-noisy/2012-all/index.html">2012</a><br />
-	<a href="./bbob-noisy/2016-all/index.html">2016</a><br />
+    <a href="./bbob-noisy/2009/index.html">2009</a><br />
+    <a href="./bbob-noisy/2010/index.html">2010</a><br />
+	<a href="./bbob-noisy/2012/index.html">2012</a><br />
+	<a href="./bbob-noisy/2016/index.html">2016</a><br />
   </td>   
   <td style="text-align:center">
-    <a href="./bbob-biobj/2016-all/index.html">2016</a><br />
-	<a href="./bbob-biobj/2017-all/index.html">2017</a><br />
-	<a href="./bbob-biobj/2019-all/index.html">2019</a><br />
+    <a href="./bbob-biobj/2016/index.html">2016</a><br />
+	<a href="./bbob-biobj/2017/index.html">2017</a><br />
+	<a href="./bbob-biobj/2019/index.html">2019</a><br />
   </td>  
   <td style="text-align:center">
-	<a href="./bbob-largescale/2019-all/index.html">2019</a>
+	<a href="./bbob-largescale/2019/index.html">2019</a>
   </td>  
   <td style="text-align:center">
     <!--<a href="./bbob-mixint/2019/index.html">2019</a>-->
