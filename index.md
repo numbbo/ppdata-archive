@@ -64,23 +64,26 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
 	<a href="./bbob/2017/index.html">2017</a><br />
 	<a href="./bbob/2018/index.html">2018</a><br />
 	<a href="./bbob/2019/index.html">2019</a><br />
+	<a href="./bbob/2020/index.html">2020</a><br />
+	<a href="./bbob/2021/index.html">2021</a><br />
   </td>
   <td style="text-align:center">
     <a href="./bbob-noisy/2009/index.html">2009</a><br />
     <a href="./bbob-noisy/2010/index.html">2010</a><br />
 	<a href="./bbob-noisy/2012/index.html">2012</a><br />
 	<a href="./bbob-noisy/2016/index.html">2016</a><br />
-  </td>   
+  </td>
   <td style="text-align:center">
     <a href="./bbob-biobj/2016/index.html">2016</a><br />
 	<a href="./bbob-biobj/2017/index.html">2017</a><br />
 	<a href="./bbob-biobj/2019/index.html">2019</a><br />
-  </td>  
+	<a href="./bbob-biobj/2021/index.html">2021</a><br />
+  </td>
   <td style="text-align:center">
 	<a href="./bbob-largescale/2019/index.html">2019</a>
-  </td>  
+  </td>
   <td style="text-align:center">
-    <!--<a href="./bbob-mixint/2019/index.html">2019</a>-->
+    <a href="./bbob-mixint/2019/index.html">2019</a>
   </td>
   <td style="text-align:center">
     <!--<a href="./bbob-constrained/2022/index.html">2022</a>-->
