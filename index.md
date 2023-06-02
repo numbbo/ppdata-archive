@@ -66,6 +66,8 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
 	<a href="./bbob/2019/index.html">2019</a><br />
 	<a href="./bbob/2020/index.html">2020</a><br />
 	<a href="./bbob/2021/index.html">2021</a><br />
+	<a href="./bbob/2022/index.html">2022</a><br />
+	<a href="./bbob/2023/index.html">2023</a><br />
   </td>
   <td style="text-align:center">
     <a href="./bbob-noisy/2009/index.html">2009</a><br />
@@ -78,6 +80,8 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
 	<a href="./bbob-biobj/2017/index.html">2017</a><br />
 	<a href="./bbob-biobj/2019/index.html">2019</a><br />
 	<a href="./bbob-biobj/2021/index.html">2021</a><br />
+	<a href="./bbob-biobj/2022/index.html">2022</a><br />
+	<a href="./bbob-biobj/2023/index.html">2023</a><br />
   </td>
   <td style="text-align:center">
 	<a href="./bbob-largescale/2019/index.html">2019</a>
