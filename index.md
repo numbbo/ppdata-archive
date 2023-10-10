@@ -23,7 +23,7 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
   <td>24 functions<br />
 	  single-objective<br />
 	  continous domain<br />
-	  200+ algorithm data sets
+	  250+ algorithm data sets
   </td>
   <td>30 functions<br />
 	  noisy evaluations<br />
@@ -35,20 +35,20 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
 	  noiseless<br />
 	  30+ algorithm data sets
   </td>
-  <td>24 bbob functions<br />
+  <td>24 functions<br />
 	  single-objective<br />
 	  dimensions 20 to 640<br />
-	  11 algorithm data sets   
+	  16 algorithm data sets   
   </td>
   <td>24 functions<br />
 	  80&#37; discrete variables<br />
 	  single-objective<br />
-	  4 algorithm data sets
+	  5 algorithm data sets
   </td>
   <td>54 functions<br />
       from 9 &quot;raw&quot; bbob functions with<br />
       1 to (9 + &lfloor; 9n/2 &rfloor;) non-linear constraints<br />
-	  1 baseline algorithm data set
+	  9 algorithm data sets
   </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ COCO (COmparing Continuous Optimizers) is a platform for systematic and sound co
     <a href="./bbob-mixint/2019/index.html">2019</a>
   </td>
   <td style="text-align:center">
-    <!--<a href="./bbob-constrained/2022/index.html">2022</a>-->
+    <a href="./bbob-constrained/2022/index.html">2022</a>
   </td>
 </tr>
 </table>
